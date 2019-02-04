@@ -13,7 +13,10 @@ body{
 /*    grid-template-rows: 300px 200px 200px;*/
 /*    grid-template-rows: repeat(3, 200px);*/
 /*    grid-template-rows: repeat(3, 1fr);*/
-    grid-template-rows: repeat(10, minmax(200px, auto));
+    grid-template-rows: repeat(3, minmax(200px, auto));
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    
     max-width: 960px;
     margin: 0 auto;
 }
