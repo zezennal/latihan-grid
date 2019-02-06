@@ -32,20 +32,29 @@
         
         main {
             grid-column: 4/13;
-            grid-row: 2/4;
+            grid-row: 3/5;
         }
         
         section{
             grid-column: 1/13;
-            grid-row: 4/6;
+            grid-row: 5/7;
         }
         
         aside{
             grid-column: 1/4;
+            grid-row: 3/5;
         }
         
         nav{
-            grid-column: 1/4;
+            grid-column: 1/13;
+            grid-row: 2/3;
+        }
+        
+        nav ul {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            list-style: none;
+            
         }
         
         footer{
@@ -97,14 +106,20 @@
             <p></p>
             <p></p>
             <p></p>
-            <p></p>    
+            <p></p>
         </div>
         
         <header>header</header>
         <main>main</main>
         <section>section</section>
         <aside>aside</aside>
-        <nav>nav</nav>
+        <nav>
+            <ul>
+                <li>nav</li>
+                <li>nav</li>
+                <li>nav</li>
+            </ul>
+        </nav>
         <footer>footer</footer>
         
     </div>
