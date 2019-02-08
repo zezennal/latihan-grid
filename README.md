@@ -1,6 +1,5 @@
 # DOKUMENTASI PENGINGATKU
-_FYI_**: dokumentasi ini dibuat hanya untuk pribadi. yang isinya adalah rangkuman hasil belajar dan penggunaan git secara langsung.
-
+_FYI_**: dokumentasi ini dibuat hanya untuk pribadi. yang isinya adalah rangkuman hasil belajar dan penggunaan git secara langsung.  
 untuk pembaca yang baru belajar atau tidak sengaja membaca artikel ini lebih jelas bisa melihat dokumentasi ^_^  
 diakhir tulisan saya lampirkan referensi nya.
 
